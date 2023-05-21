@@ -1,0 +1,20 @@
+.env 不可上傳至 gitHub切記
+
+
+router 路由
+
+表單輸入如果沒有 https很危險
+
+http 協定
+https://
+
+domain 網址
+www.google.com.tw
+
+path 路徑
+search
+
+query 參數
+q=test
+
+https://www.google.com.tw/search?q=test
